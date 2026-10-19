@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "outloresmp.mcsh.io",
-    "port": 25565,
+    "ip": "15.235.165.12:11563",
+    "port": 11563,
     "version": "1.21.1",
     "try-creative": false
   },
