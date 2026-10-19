@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "bot_24_7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "outloresmp.mcsh.io",
     "port": 25565,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
